@@ -15,5 +15,5 @@ Google Coding Competition Kick Start. Solution with Explanations! 💫
 |     G    |  --  |  --  |  --  |  --  |      |      |      |
 |     H    |  --  |  --  |  --  |  --  |  --  |      |      |
 
-[2013](2013/)
-    [Practice](2013/Practice/)
+* [2013](2013/)
+    + [Practice](2013/Practice/)
