@@ -6,7 +6,7 @@ Google Coding Competition Kick Start. Solution with Explanations! 💫
 |:--------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | Practice |  ✅  |  --  |      |      |      |  --  |      |
 |     A    |  ✅  |      |      |      |      |      |      |
-|     B    |      |      |      |      |      |      |      |
+|     B    |  ✅  |      |      |      |      |      |      |
 | Practice |  --  |  --  |  --  |  --  |      |  --  |  --  |
 |     C    |  --  |      |      |      |      |      |      |
 |     D    |  --  |      |      |      |      |      |      |
@@ -18,3 +18,4 @@ Google Coding Competition Kick Start. Solution with Explanations! 💫
 * [2013](2013/)
     + [Practice](2013/Practice/)
     + [Round A](2013/A/)
+    + [Round B](2013/B/)
