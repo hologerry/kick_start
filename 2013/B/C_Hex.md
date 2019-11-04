@@ -1,4 +1,4 @@
-# 2013 Round A C. Hex
+# 2013 Round B C. Hex
 
 
 ## Problem/题意

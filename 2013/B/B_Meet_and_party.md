@@ -1,4 +1,4 @@
-# 2013 Round A B. Meet and party
+# 2013 Round B B. Meet and party
 
 
 ## Problem/题意
